@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails fruitbox: development" uuid="b61a9c8d-61f6-4559-a458-583a7b3e9dc6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails fruitbox: test" uuid="d22cdcf1-1165-4b57-bf0f-5bddda2ccfd4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails fruitbox: production" uuid="96e66e6c-964c-45b6-8dce-999e2496fee3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
