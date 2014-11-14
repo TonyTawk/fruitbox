@@ -4,7 +4,9 @@
     <data-source source="LOCAL" name="Rails fruitbox: development" uuid="b61a9c8d-61f6-4559-a458-583a7b3e9dc6">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:fruitbox_development</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/fruitbox_development</jdbc-url>
+      <user-name>fruitbox</user-name>
+      <user-password>dfccdfd8dfdfdfc3dfdedfc8dfc5dfd2</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails fruitbox: test" uuid="d22cdcf1-1165-4b57-bf0f-5bddda2ccfd4">
